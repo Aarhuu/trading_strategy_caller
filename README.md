@@ -15,7 +15,6 @@ clone repository and run following commands:
 python -m venv .venv
 
 pip install -r requirements.txt
-
 ```
 
 You can test the functionality in Jupyter notebook or writing tests under the class file. 
